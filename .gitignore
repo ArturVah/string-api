@@ -1,0 +1,6 @@
+*.iml
+.idea/
+target/
+/secret
+secret.tar.bz2
+.DS_Store

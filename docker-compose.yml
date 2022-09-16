@@ -1,0 +1,7 @@
+version: "3.8"
+services:
+  string-api:
+    container_name: backend
+    build: ./
+    ports:
+      - "8080:8080"
