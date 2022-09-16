@@ -1,0 +1,5 @@
+###
+POST http://localhost:8080/api/reverse
+Content-Type: application/json
+
+{"value": "example"}
